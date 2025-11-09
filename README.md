@@ -63,4 +63,6 @@ This project analyzes Data Analyst job roles in Canada using a dataset that cont
 ✅ Conclusion
 This analysis provides valuable insights for students, professionals, and job seekers interested in the Canadian data job market. It reveals hiring patterns, salary expectations, and skill demands.
 
----
+I'm available for collaboration on data-related projects, including data analysis, validation, and visualization. Let's work together to uncover insights and create impactful stories with data! 📊📈💻---
+you can reach me via email[oreoluolokodana23@gmail.com]
+or via WHATSAPP[09045765889]
