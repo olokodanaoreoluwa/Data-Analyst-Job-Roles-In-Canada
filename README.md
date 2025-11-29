@@ -1,6 +1,7 @@
 # Data-Analyst-Job-Roles-In-Canada
 
-![WhatsApp Image 2025-11-29 at 4 32 54 AM](https://github.com/user-attachments/assets/7ded6377-ba15-4679-a460-6e13290a71ee)
+![Uploading WhatsApp Image 2025-11-29 at 4.32.54 AM.jpeg…]()
+
 
 This dataset provides a unique glimpse into the job market, capturing essential details like salary ranges, required skills, programming languages, job titles, employers, and much more.
 📊 Data Analyst Job Roles in Canada
