@@ -1,6 +1,7 @@
 # Data-Analyst-Job-Roles-In-Canada
 
-![Uploading WhatsApp Image 2025-11-29 at 4.32.54 AM.jpeg…]()
+![luke-chesser-JKUTrJ4vK00-unsplash](https://github.com/user-attachments/assets/4dfefdf3-6ba3-4261-8b12-8032c3ee6435)
+
 
 
 This dataset provides a unique glimpse into the job market, capturing essential details like salary ranges, required skills, programming languages, job titles, employers, and much more.
